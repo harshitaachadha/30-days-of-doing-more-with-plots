@@ -1,6 +1,6 @@
 # 30-days-of-doing-more-with-plots
 This is a tracker repo only. No plots here - only on tableau public or PowerBI. WIll be posting links when done.<br>
-To Do/ Ta Da
+**To Do/ Ta Da**
 - [ ] Line Chart
 - [ ] Bar Chart
 - [ ] Histogram
